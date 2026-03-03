@@ -33,6 +33,7 @@
     ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)&nbsp;
     ![Shopify](https://img.shields.io/badge/Shopify-%2396BF48.svg?style=for-the-badge&logo=Shopify&logoColor=white)&nbsp;
     ![Salla](https://img.shields.io/badge/Salla-%23004D56.svg?style=for-the-badge&logo=Salla&logoColor=white)&nbsp;
+    ![Framer](https://img.shields.io/badge/Framer-%230055FF.svg?style=for-the-badge&logo=Framer&logoColor=white)
 <br>
 
 <p align="center">
