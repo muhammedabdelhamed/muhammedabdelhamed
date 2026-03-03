@@ -30,10 +30,10 @@
 
 - **CMS**:
 
-    ![Framer](https://img.shields.io/badge/Framer%20-%2314354C.svg?style=for-the-badge&logo=Framer&logoColor=white)&nbsp;
-    ![WordPress](https://img.shields.io/badge/WordPress%20-%2314354C.svg?style=for-the-badge&logo=WordPress&logoColor=white)&nbsp;
+    ![Framer](https://img.shields.io/badge/Framer%20-%000000.svg?style=for-the-badge&logo=Framer&logoColor=white)&nbsp;
+    ![WordPress](https://img.shields.io/badge/WordPress%20-%3858e9.svg?style=for-the-badge&logo=WordPress&logoColor=white)&nbsp;
     ![Shopify](https://img.shields.io/badge/Shopify%20-%95bf47.svg?style=for-the-badge&logo=Shopify&logoColor=white)&nbsp;
-    ![Salla](https://img.shields.io/badge/Salla%20-%2314354C.svg?style=for-the-badge&logo=Salla&logoColor=white)&nbsp;
+    ![Salla](https://img.shields.io/badge/Salla%20-%3858e9.svg?style=for-the-badge&logo=Salla&logoColor=white)&nbsp;
 <br>
 
 <p align="center">
