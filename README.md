@@ -31,7 +31,7 @@
 - **CMS**:
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-    ![WordPress](https://img.shields.io/wordpress/plugin/:interval/:slug)&nbsp;
+    ![WordPress](https://img.shields.io/badge/WordPress%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 <br>
 
 <p align="center">
