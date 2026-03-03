@@ -17,7 +17,7 @@
 - A passionate Self-taught Full-stack developer
 - Computer Science & Artificial Intelligence
 - Web Developer in ITI MEARN Full Stack
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://drive.google.com/file/d/1z4eS0M2sLk0eYoBeC1EIc6HkBqjxsUei/view?usp=sharing](https://drive.google.com/file/d/16TqE1eyGQnK4Cphls5YQfRkySfel1WJM/view?usp=drivesdk))
+- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://drive.google.com/file/d/1z4eS0M2sLk0eYoBeC1EIc6HkBqjxsUei/view?usp=sharing])
 
 <br><br>
 
